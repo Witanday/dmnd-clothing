@@ -2,7 +2,9 @@
   "name": "starshop",
   "version": "0.1.0",
   "engines": {
-    "node": "12.16.1"
+    "node": "12.16.1",
+    "yarn":"1.22.0",
+    "npm":"6.5.0"
   },
   "private": true,
   "dependencies": {
